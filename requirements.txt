@@ -1,0 +1,8 @@
+openai
+pyttsx3
+SpeechRecognition
+pyaudio
+schedule
+gspread
+oauth2client
+tkinter
