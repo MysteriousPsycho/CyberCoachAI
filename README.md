@@ -14,9 +14,7 @@ Your personal AI-powered Cybersecurity and Python learning assistant.
 
 1. Clone the repo: https://github.com/MysteriousPsycho/CyberCoachAI.git
 2. Install dependencies:
-3. 
 3. Add your OpenAI API key in the scripts.
-
 4. Run:
 - Voice assistant: `python cybercoach_voice.py`
 - GUI assistant: `python cybercoach_gui.py`
